@@ -1,6 +1,6 @@
 # FriendsApp
 
-**TODO: Add description**
+**ELIXIR CRUDE*
 
 ## Installation
 
