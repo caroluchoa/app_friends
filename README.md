@@ -1,6 +1,6 @@
 # FriendsApp
 
-**ELIXIR CRUDE*
+**ELIXIR CRUDE**
 
 ## Installation
 
